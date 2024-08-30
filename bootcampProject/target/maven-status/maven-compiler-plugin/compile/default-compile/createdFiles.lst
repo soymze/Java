@@ -1,0 +1,8 @@
+com\tobeto\bootcampProject\BootcampProjectApplication.class
+com\tobeto\bootcampProject\entities\Applicant.class
+com\tobeto\bootcampProject\entities\Instructor.class
+com\tobeto\bootcampProject\entities\Employee.class
+com\tobeto\bootcampProject\dataAccess\ApplicantRepository.class
+com\tobeto\bootcampProject\dataAccess\EmployeeRepository.class
+com\tobeto\bootcampProject\dataAccess\InstructorRepository.class
+com\tobeto\bootcampProject\entities\User.class
